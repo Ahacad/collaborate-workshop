@@ -46,7 +46,7 @@ Learn more: https://sli.dev/guide/syntax#embedded-styles
 
 # [Soft Skills](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
-<img src="images/softskills.jpg" class="h-20"/>
+<img src="/images/softskills.jpg" class="h-20"/>
 
 ---
 
