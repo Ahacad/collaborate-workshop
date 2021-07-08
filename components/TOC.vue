@@ -11,22 +11,19 @@ const counter = ref(props.count);
 
 const getClass = (index: number) => {
   if (Number(counter.value) === 0) {
-    return "text-black";
+    return "text-white";
   }
   if (index + 1 === Number(counter.value)) {
-    return "text-black";
+    return "text-white";
   } else {
     return "text-gray-400";
   }
 };
 
 const items = [
-  "Introduction to LSM-tree",
-  "Measuring Latency",
-  "Analyses on Merge Schedulers: Full Merges",
-  "Analyses on Merge Schedulers: Partitioned Merges",
-  "Lessons and Conclusions",
-  "References",
+  "Soft Skills",
+  "All you need is GitHub",
+  "Domain specific knowledge",
 ];
 </script>
 
