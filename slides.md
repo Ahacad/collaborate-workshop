@@ -67,6 +67,10 @@ Learn more: https://sli.dev/guide/syntax#embedded-styles
 
 ---
 
+DEMO: (based on https://github.com/CLDXiang/today-frontend/)
+
+---
+
 ## Drafts
 
 - 任务明确、沟通顺畅、文档记录 
