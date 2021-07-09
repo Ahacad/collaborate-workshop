@@ -44,28 +44,45 @@ layout: section
 
 # Roadmap
 
+<Space />
+
+<TOC count=1 />
+
+
+---
+layout: default-3
 ---
 
-# [Soft Skills](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
+# [Soft Skills](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397) <span class="text-base"><sup>[1]</sup></span>
 
-<img src="/images/softskills.jpg" class="h-20"/>
+<img src="/images/softskills.jpg" class="h-40"/>
+<div class="mt-5" />
 
----
-
-> *All you need is ... GitHub* <sup>[^1]</sup> <sup>[^2]</sup>
+- stay online and communicate with others
+- be friendly: [contributor covenant code of conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+- don't be afraid to ask questions: [Raymond how to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- share your ideas and insights
+- make friends and enjoy
+- 流程 -> 行为 -> 氛围 -> 文化 (you'll like it, or hate it)
 
 
 
 <div class="absolute bottom-10 text-xs"> 
 
-- [*All You Need Is Love*](https://www.wikiwand.com/en/All_You_Need_Is_Love)
-- [*Attention is all you need*](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [[1] 10 soft skills](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7)
 
 </div>
 
 ---
+layout: section
+---
 
-<div class="mt-3 h-10 w-10"><Tweet id="1407731478096756739" /></div>
+# Roadmap
+
+<Space />
+
+<TOC count=2 />
+
 
 ---
 
