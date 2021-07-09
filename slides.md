@@ -145,33 +145,31 @@ layout: section
 <Space />
 <TOC count=3 />
 
+---
+layout: default-5
+---
+
+## 唠叨
+
+<Space />
+
+- what we want to achieve: 任务明确、沟通顺畅、文档记录
+- what we want to achieve: 学到知识、交到朋友、做出一些贡献
+- what are we doing: Web 开发 (not architecture, not database, we focus on applications):
+  - what you can learn <span class="text-pink-900">(web, servers, SE)</span> and what you can hardly learn <span class="text-pink-900">(how to write a web server? how to write a frontend framework?)</span>
+  - what we can do <span class="text-pink-900">(make our life better)</span> and what we cannot <span class="text-pink-900">(write something so awesome that everyone will use)</span>
+
+---
+
 ## Drafts
 
-- 任务明确、沟通顺畅、文档记录 
+-  
 
 use GitHub well!
 
-- soft skills:
-  - be friendly [code of conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
-  - don't be afraid to ask {raymond how to ask question}
-  - share your insights
-  - make friends and enjoy
-- all you need is GitHub
-  - https://twitter.com/i/status/1407731478096756739
-  - personal: have good commits
-  - collaborating:
-    - issues, prs, @someone
-    - commit conventions https://www.conventionalcommits.org/en/v1.0.0/
-  - code reievw
-    - there will be problems
-  - wiki: 知识沉淀 (IM 是不适合的)
-  - milestones (1-week & 2-week) and sprints (longer)
-  - a calendar will help you (Google Calendar, ZenHub)
-  - be online (respond in time, on slack)
 - DSN
   - what are we doing: Web app
     - web app has sofisticated solutions, but we are trying to find out our way of doing it
-    - what we can learn and what we cannot
     - what we can do and what we cannot
   - what is our goal: learning
     - learning by doing and collaborating (that is good)
