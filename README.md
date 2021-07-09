@@ -1,5 +1,7 @@
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
+[![Deploy pages](https://github.com/Ahacad/collaborate-workshop/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahacad/collaborate-workshop/actions/workflows/ci.yml)
+
 To start the slide show:
 
 - `npm install`
