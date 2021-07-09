@@ -86,9 +86,64 @@ layout: section
 
 ---
 
+> *All you need is ... GitHub* <sup>[^1]</sup> <sup>[^2]</sup>
+
+<div class="grid grid-cols-2">
+<div class=" mt-3 h-10 w-10"><Tweet id="1407731478096756739" /></div>
+<div class=" mt-3 h-10 w-10"><Tweet id="1413226453450244098" /></div>
+</div>
+
+<div class="absolute bottom-10 text-xs"> 
+
+- [[1] *All You Need Is Love*](https://www.wikiwand.com/en/All_You_Need_Is_Love)
+- [[2] *Attention is all you need*](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+</div>
+
+---
+
+
+<img class="mt-10" src="/images/github-1.png"/>
+<Space />
+
+- use GitHub well!
+    - commit conventions: https://www.conventionalcommits.org/en/v1.0.0/
+  - projects: manage issues and PRs, milestones & sprints
+  - issues: submit your ideas!
+  - prs: code review & CICD
+  - discussions
+  - wiki: write knowledge down
+  - actions(CICD)
+
 DEMO: (based on https://github.com/CLDXiang/today-frontend/)
 
 ---
+
+## you actually need more
+
+<Space />
+<div class="mt-10"/>
+
+(personal suggestions)
+
+tools:
+- IM: [Slack](https://slack.com/) & [telegram](https://telegram.org/)
+- calendar: [Google Calendar](https://calendar.google.com/)
+- maillist
+- ...
+
+
+- formatting tools (eslint, prettier, .editorconfig, gofmt ...)
+- good [scripts and CI](https://github.com/Ahacad/collaborate-workshop/actions/workflows/release.yml) will save you tons of time!
+
+---
+layout: section
+---
+
+# Roadmap
+
+<Space />
+<TOC count=3 />
 
 ## Drafts
 
