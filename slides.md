@@ -29,18 +29,20 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
+layout: section
+---
 
-# Roadmap
+# Table of contents
 
-<div class="mt-30" />
+<Space />
 
 <TOC />
 
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
+---
+layout: section
+---
 
+# Roadmap
 
 ---
 
