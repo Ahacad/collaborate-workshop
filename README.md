@@ -1,6 +1,11 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# collaborate workshop
 
 [![Deploy pages](https://github.com/Ahacad/collaborate-workshop/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahacad/collaborate-workshop/actions/workflows/ci.yml)
+
+How to collaborate in a small team? See the [slides](https://ahacad.github.io/collaborate-workshop/).
+
+
+## Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
 
