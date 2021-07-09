@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build --base /collaborate-workshop/",
-    "export": "slidev export"
+    "export": "slidev export",
+    "release": "zx scripts/release.mjs"
   },
   "dependencies": {
     "@slidev/cli": "0.22.1",
@@ -12,5 +13,11 @@
     "@slidev/theme-shibainu": "^0.0.1",
     "playwright-chromium": "^1.11.1"
   },
-  "name": "slidev"
+  "name": "slidev",
+  "devDependencies": {
+    "bumpp": "^6.0.6",
+    "child_process": "^1.0.2",
+    "fs-extra": "^10.0.0",
+    "zx": "^2.0.0"
+  }
 }
