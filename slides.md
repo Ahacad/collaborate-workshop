@@ -204,6 +204,6 @@ layout: default-5
 - what we want to achieve: 任务明确、沟通顺畅、文档记录
 - what we want to achieve: 学到知识、交到朋友、做出一些贡献
 - what are we doing: Web 开发
-  - what you can learn <span class="text-pink-900">(web, servers, SE)</span> and what you can hardly learn <span class="text-pink-900">(how to write a web server? how to write a frontend framework?)</span>
-  - what we can do <span class="text-pink-900">(make our life better)</span> and what we cannot <span class="text-pink-900">(write something so awesome that everyone will use)</span>
+  - what you can learn <span class="text-blue-900">(web, servers, SE)</span> and what you can hardly learn <span class="text-blue-900">(how to write a web server? how to write a frontend framework?)</span>
+  - what we can do <span class="text-blue-900">(make our life better)</span> and what we cannot <span class="text-blue-900">(write something so awesome that everyone will use)</span>
   - 已经有成熟经验和解决方案，一边学习一边建造
