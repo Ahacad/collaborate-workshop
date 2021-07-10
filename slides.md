@@ -203,24 +203,7 @@ layout: default-5
 
 - what we want to achieve: 任务明确、沟通顺畅、文档记录
 - what we want to achieve: 学到知识、交到朋友、做出一些贡献
-- what are we doing: Web 开发 (not architecture, not database, we focus on applications):
+- what are we doing: Web 开发
   - what you can learn <span class="text-pink-900">(web, servers, SE)</span> and what you can hardly learn <span class="text-pink-900">(how to write a web server? how to write a frontend framework?)</span>
   - what we can do <span class="text-pink-900">(make our life better)</span> and what we cannot <span class="text-pink-900">(write something so awesome that everyone will use)</span>
-
----
-
-## Drafts
-
--  
-
-use GitHub well!
-
-- DSN
-  - what are we doing: Web app
-    - web app has sofisticated solutions, but we are trying to find out our way of doing it
-    - what we can do and what we cannot
-  - what is our goal: learning
-    - learning by doing and collaborating (that is good)
-    - share your ideas, readings and feelings
-    - 想做但是不知道怎么做：communicate! && 内部分享
-
+  - 已经有成熟经验和解决方案，一边学习一边建造
