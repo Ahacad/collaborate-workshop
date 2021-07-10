@@ -179,9 +179,10 @@ tools:
 - maillist
 - ...
 
-
 - formatting tools (eslint, prettier, .editorconfig, gofmt ...)
 - good [scripts and CI](https://github.com/Ahacad/collaborate-workshop/actions/workflows/release.yml) will save you tons of time!
+- ...
+- extend GitHub and have better DevOps tools (ZenHub, ...)
 
 ---
 layout: section
