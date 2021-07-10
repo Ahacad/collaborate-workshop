@@ -119,6 +119,53 @@ DEMO: (based on https://github.com/CLDXiang/today-frontend/)
 
 ---
 
+## Commit conventions
+
+<div class="mt-16"/>
+
+- [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/): `<type>[optional scope]: <description>`
+- [Angular commit conventions](https://gist.github.com/brianclements/841ea7bffdb01346392c)
+- 没有官方标准，但是有些工具可以利用 commit message: https://github.com/conventional-changelog/standard-version
+
+- 切分 commits，每一个 commit 做一件事
+
+---
+
+## Branch strategy
+<Space />
+
+<div class="grid grid-cols-2"> 
+
+<div > <img src="/images/gitflow.png" class="h-80"/> <div class="ml-22  text-sm">git flow </div></div>
+
+<div class="mt-10">
+
+- [GitKraken: What is the best Git branch strategy? GitFlow vs. GitHub flow vs. GitLab flow](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
+- [Paul Hammant: what is your branching model?](https://paulhammant.com/2013/12/04/what_is_your_branching_model/)
+- choose one!
+
+</div>
+
+</div>
+
+---
+
+## Projects
+
+<Space />
+
+<img src="/images/projects.png" class="h-80"/>
+
+---
+
+## Actions
+
+<Space />
+
+<img src="/images/actions.png" class="h-80"/>
+
+---
+
 ## you actually need more
 
 <Space />
